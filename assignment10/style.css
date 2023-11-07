@@ -1,0 +1,55 @@
+nav li a{
+    padding: 20px;
+    width: 150px;
+    display: block;
+    color:#ffffff;
+    text-decoration: none;
+    background-color: #2f00ff;
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+nav li a:hover{
+    background-color: #00d9ff;
+    color: #ffffff;
+    text-decoration: none;
+}
+nav li {
+    display: inline-block;
+    background-color: #2f00ff;
+}
+
+.floatimg {
+    float: right;
+    border: 2px solid #000000;
+    padding: 6px;
+    block-size: 600px;
+    width: 200px;
+    height: auto;
+    margin-bottom: 10px;
+  }
+
+#container {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+}
+
+body {
+    background-color: #ececec94;
+    background-image: url(Screenshot\ 2023-11-01\ at\ 4.36.53\ PM.png);
+  }
+
+#graybackground {
+    background-color: rgb(174, 174, 174);
+    padding: 4px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.clear {
+    clear: both;
+}
