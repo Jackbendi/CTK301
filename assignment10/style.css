@@ -53,3 +53,39 @@ body {
 .clear {
     clear: both;
 }
+
+.thebookart
+{
+   max-width: 400px;
+   padding: 5px;
+  margin: 0 auto;
+}
+
+.dreamingart
+{
+    max-width: 400px;
+    height: 400px;
+    padding: 5px;
+    margin: 0 auto;
+}
+
+.wheresmyarcart
+{
+ max-width: 400px;
+ height: 400px;
+ padding: 5px;
+ margin: 0 auto;
+}
+
+.steppinoutsideart
+{
+  width: 400px;
+  height: 400px;
+  padding: 5px;
+  margin: 0 auto;
+}
+
+.grid{
+    display: grid ;
+    grid-template-columns: 1fr 1fr;
+}
